@@ -1,0 +1,55 @@
+body{
+    background-color: gainsboro;
+}
+
+.Header{
+    background-color: white;
+    text-align: center;
+}
+
+.post{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+    margin-left: 2px;
+}
+#dots{
+    margin-left: 450px;
+}
+
+.title{
+    display: flex;
+    padding: 10px;
+}
+
+#subtitulo{
+    font-size: 14px;
+    margin-left: 3px;
+}
+
+.photo{
+    width: 100%;
+}
+
+.text{
+    padding: 10px;
+}
+
+.likes{
+    padding: 5px;
+}
+
+.parrafo{
+    padding: 5px;
+}
+
+#save{
+    float: right;
+}
